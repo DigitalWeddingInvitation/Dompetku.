@@ -1,2 +1,0 @@
-# Dompetku.
-Catatan Keuangan
